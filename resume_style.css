@@ -1,0 +1,64 @@
+h1{
+  color:#050d19;
+  font-size:70px;
+  text-weight:bold;
+  text-align:center;
+  font-family:Impact;
+  font-weight:bold;
+}
+
+#pro_pic{
+  height:500px;
+}
+
+#name_shah{
+  font-size:40px;
+  position:absolute;
+  top:150px;
+  left:510px;
+}
+
+h3{
+  font-size: 50px;
+}
+
+#title_shah{
+  font-size:30px;
+  position:absolute;
+  top:200px;
+  left:510px;
+}
+
+#education{
+  postion: absolute;
+  top:250px;
+  left:510px;
+  font-size:30px;
+  text-align:center;
+  border: 3px solid black;
+  border-collapse: collapse;
+  padding:20px;
+  height: 30px;
+  width:800px;
+}
+
+table{
+  text-align:center;
+}
+
+th,td{
+  border: 3px solid black;
+  border-collapse:collapse;
+  padding: 20px;
+}
+
+th{
+  background-color:teal;
+}
+
+h4,p{
+  font-size:30px;
+}
+ul{
+  font-size:25px;
+}
