@@ -44,21 +44,35 @@ h3{
 
 table{
   text-align:center;
+  margin:20px;
 }
 
 th,td{
   border: 3px solid black;
   border-collapse:collapse;
   padding: 20px;
+  font-size:25px;
 }
 
 th{
   background-color:teal;
 }
 
-h4,p{
+h4{
   font-size:30px;
+  margin:20px;
 }
-ul{
+
+ul,p{
   font-size:25px;
+  margin:20px;
+}
+
+body{
+  background-color:teal;
+}
+
+#intro{
+  top:300px;
+  left:510px;
 }
